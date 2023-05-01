@@ -13,8 +13,6 @@ build:
 
 mkdocs:
   configuration: mkdocs.yml
-# Canonical URL
-site_url: https://<slug>.readthedocs.io/en/stable/
 
 # Optionally declare the Python requirements required to build your docs
 python:
